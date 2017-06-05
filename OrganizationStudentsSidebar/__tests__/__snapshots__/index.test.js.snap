@@ -1,0 +1,40 @@
+exports[`<OrganizationStudentsSidebar /> renders the content 1`] = `
+<div
+  className="jpaZNf">
+  <div
+    className="hwACMV">
+    <div
+      className="ilBEsO">
+      <i
+        className="fa fa-search iutMND" />
+      <input
+        className="hOThBj"
+        name="searchbar"
+        onChange={[Function bound ]}
+        placeholder="Find a student"
+        type="text"
+        value="" />
+      <button
+        className="bDZnTJ"
+        onClick={[Function bound ]}>
+        
+      </button>
+    </div>
+    <div
+      className="ihvGfk">
+      <div
+        className="bEtzKp"
+        onClick={[Function bound ]}>
+        <div
+          className="bwleXr">
+          ADD NEW SECTION
+        </div>
+        <div
+          className="bwleXr">
+          +
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
